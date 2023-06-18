@@ -1,0 +1,7 @@
+#!/bin/bash
+
+nn=$(whoami)
+echo "your name is: $nn"
+di==$(pwd)
+echo "your lacation is: $di"
+echo "done"
